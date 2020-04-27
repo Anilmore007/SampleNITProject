@@ -13,6 +13,11 @@ public class Utility {
 		System.out.println("Utility.m1() Mod::12345");
 		System.out.println("Abc");
 	}
+
+	public void m2(){
+		System.out.println("Utility.m2()");
+	}
+	
 	
 
 }
